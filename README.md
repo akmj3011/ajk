@@ -61,11 +61,11 @@
 <div class="slider-container">
   <div class="slides">
     <div class="slide">
-      <img src="image1.jpg" alt="![image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
+      <img src="image1.jpg" alt= [image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
 ">
     </div>
     <div class="slide">
-      <img src="image2.jpg" alt="[image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7
+      <img src="image2.jpg" alt=[image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7
 
 ">
     </div>
