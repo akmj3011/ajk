@@ -65,10 +65,13 @@
 ">
     </div>
     <div class="slide">
-      <img src="image2.jpg" alt="Image 2">
+      <img src="image2.jpg" alt="Image ![image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7
+
+">
     </div>
     <div class="slide">
-      <img src="image3.jpg" alt="Image 3">
+      <img src="image3.jpg" alt="Image (https://github.com/akmj3011/ajk/assets/128561949/8a144861-ff12-4a99-94cc-4b93ff6f39fa)
+">
     </div>
     <!-- Add more slides as needed -->
   </div>
