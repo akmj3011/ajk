@@ -55,16 +55,13 @@
 <div class="slider-container">
   <div class="slides">
     <div class="slide">
-      <img src="image1.jpg" alt= [image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
-">
+      <img src="image1.jpg" alt= [image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)">
     </div>
     <div class="slide">
-      <img src="image2.jpg" alt=[image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7
-
-">
+      <img src="image2.jpg" alt=[image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7">
     </div>
     <div class="slide">
-      <img src="image3.jpg" alt="![image](https://github.com/akmj3011/ajk/assets/128561949/5a355117-97bc-47da-8a37-fac85bac0c5c)
+      <img src="image3.jpg" alt="![image](https://github.com/akmj3011/ajk/assets/128561949/5a355117-97bc-47da-8a37-fac85bac0c5c):>
 
     </div>
     <!-- Add more slides as needed -->
@@ -101,13 +98,6 @@
   showSlides();
 </script>
 
-![image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
-
-
-![image](https://github.com/akmj3011/ajk/assets/128561949/64251316-1b82-4376-8ed7-143b810821a7
-
-
-![image](https://github.com/akmj3011/ajk/assets/128561949/8a144861-ff12-4a99-94cc-4b93ff6f39fa)
 
 </body>
 </html>
