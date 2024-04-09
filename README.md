@@ -19,7 +19,6 @@
 
   .slider-container {
 
-  ![image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
 
     position: relative;
     width: 100%;
@@ -72,6 +71,8 @@
     </div>
     <!-- Add more slides as needed -->
   </div>
+  ![image](https://github.com/akmj3011/ajk/assets/128561949/77ce47fd-f894-4d99-95cb-ac563af05c7c)
+
   <button class="arrow prev" onclick="prevSlide()">&#10094;</button>
   <button class="arrow next" onclick="nextSlide()">&#10095;</button>
 </div>
